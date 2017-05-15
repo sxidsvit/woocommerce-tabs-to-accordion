@@ -1,0 +1,1 @@
+woocommerce-tabs-to-accordion
